@@ -17,27 +17,14 @@ An implementation of a Latent Diffusion Model (LDM) built from scratch using PyT
 [Dataset from Kaggle](https://www.kaggle.com/datasets/andrewmvd/animal-faces)
 
 
-<details>
-<summary><strong>View BibTeX Citations</strong></summary>
+## Study Resources
 
-```bibtex
-@article{ho2020denoising,
-  title={Denoising Diffusion Probabilistic Models},
-  author={Jonathan Ho and Ajay Jain and Pieter Abbeel},
-  journal={arXiv preprint arXiv:2006.11239},
-  year={2020}
-}
+### Papers
+* **Denoising Diffusion Probabilistic Models** - [Ho et al. (2020)](https://arxiv.org/abs/2006.11239)
+* **Attention Is All You Need** - [Vaswani et al. (2017)](https://arxiv.org/abs/1706.03762)
+* **High-Resolution Image Synthesis with Latent Diffusion Models** - [Rombach et al. (2021)](https://arxiv.org/abs/2112.10752)
 
-@article{vaswani2017attention,
-  title={Attention Is All You Need},
-  author={Ashish Vaswani et al.},
-  journal={arXiv preprint arXiv:1706.03762},
-  year={2017}
-}
-
-@article{rombach2021highresolution,
-  title={High-Resolution Image Synthesis with Latent Diffusion Models},
-  author={Robin Rombach et al.},
-  journal={arXiv preprint arXiv:2112.10752},
-  year={2021}
-}
+### Videos
+* [Diffusion Models: DDPM | Generative AI Animated](https://www.youtube.com/watch?v=EhndHhIvWWw) – Excellent visualization of the forward/reverse process.
+* [The Key Equation Behind Probability](https://www.youtube.com/watch?v=KHVR587oW8I) (Artem Kirsanov) – Essential for understanding the entropy/KL-divergence math.
+* [Attention in transformers, step-by-step](https://www.3blue1brown.com/lessons/attention) (3Blue1Brown) – Visual breakdown of the Attention Mechanism.
