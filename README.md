@@ -14,6 +14,4 @@ An implementation of a Latent Diffusion Model (LDM) built from scratch using PyT
 
 
 ## Dataset : 
-<p>
-  <url = "https://www.kaggle.com/datasets/andrewmvd/animal-faces">
-</p>
+![Dataset from Kaggle]("https://www.kaggle.com/datasets/andrewmvd/animal-faces")
