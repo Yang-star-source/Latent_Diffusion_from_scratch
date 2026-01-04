@@ -16,6 +16,7 @@ An implementation of a Latent Diffusion Model (LDM) built from scratch using PyT
 ## Dataset 
 [Dataset from Kaggle](https://www.kaggle.com/datasets/andrewmvd/animal-faces)
 
+## Codes
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yang-star-source/Latent_Diffusion_from_scratch/blob/main/Latent_Diffusion_from_scratch.ipynb)
 
 ## Study Resources
