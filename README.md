@@ -20,11 +20,14 @@ Need flowchart for clearer explanation ?
 I have provided the source file for anyone who wants to study the architecture deeply or modify the diagrams.
 
 * **[Download Source File (.drawio)](FlowChart.drawio)**
+  
 *(Note: To open this file, go to [app.diagrams.net](https://app.diagrams.net/) in your browser and drag-and-drop the file onto the canvas.)*
 
 To view my draft and notes when studying Latent Diffusion
 
 [View the Draft and Notes](https://1drv.ms/o/c/eae736d6f2d45eed/IgAV2N1tMUu1QaddKr_KNX88AeZ-4xvzktsisAO-h5fDtRE?e=DPCh6h)
+
+*(Note: The codes wrote inside notes might be differ with the actual implementing codes)*
 
 ## Pre-trained Models
 You can download the trained weights from Google Drive:
