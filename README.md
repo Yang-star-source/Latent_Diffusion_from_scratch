@@ -1,4 +1,9 @@
 # Latent Diffusion From Scratch
-Build Image Generation model from scratch
 
-<img src="images/sample_cat1.png" alt="Cat Generated" width="500">
+An implementation of a Latent Diffusion Model (LDM) built entirely from scratch using PyTorch.
+
+<p align="center">
+  <img src="images/sample_cat1.png" width="600" title="Generated Results">
+</p>
+
+*Generated samples using the custom trained model.*
