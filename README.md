@@ -13,7 +13,7 @@ There is 2 models to be trained , Variational AutoEncoders (VAE) and Diffusion U
 
 ![An Introduction of Model Architecture](images/introduction.png)
 
-### More Details
+## More Details Architecture Explanation
 Need flowchart for clearer explanation ?
 [**Click here to browse the architecture flowcharts**](FlowChart/)
 
