@@ -7,3 +7,6 @@ An implementation of a Latent Diffusion Model (LDM) built entirely from scratch 
 </p>
 
 *Generated samples using the custom trained model.*
+
+## Architecture :
+
