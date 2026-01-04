@@ -15,14 +15,15 @@ An implementation of a Latent Diffusion Model (LDM) built from scratch using PyT
 ## Pre-trained Models
 You can download the trained weights from Google Drive:
 
-* **[Download Pre-trained Weights Folder](PASTE_YOUR_FOLDER_LINK_HERE)**
+* **[Download Pre-trained Weights Folder](https://drive.google.com/drive/folders/1EbwM13No2i44OCQbxzMkeORkeEqaT9IU?usp=sharing)**
   * `checkpoint.pth` (VAE Autoencoder)
   * `unet_epoch_500.pth` (Diffusion Model)
 
 **Setup:**
 1. Download both files.
 2. Place them inside your project folder (or upload to Colab).
-3. 
+
+
 ## Codes Implementation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yang-star-source/Latent_Diffusion_from_scratch/blob/main/Latent_Diffusion_from_scratch.ipynb)
 
