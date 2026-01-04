@@ -11,3 +11,9 @@ An implementation of a Latent Diffusion Model (LDM) built from scratch using PyT
 ## Architecture Overview :
 
 ![An Introduction of Model Architecture](images/introduction.png)
+
+
+## Dataset : 
+<p>
+  <url = "https://www.kaggle.com/datasets/andrewmvd/animal-faces">
+</p>
