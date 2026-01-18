@@ -49,6 +49,15 @@ For Inference Mode (One Click Run):
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yang-star-source/Latent_Diffusion_From_Scratch/blob/main/Latent_Diffusion_From_Scratch_Inference.ipynb)
 
 ## Dataset 
+```bibtex
+@inproceedings{choi2020starganv2,
+  title={StarGAN v2: Diverse Image Synthesis for Multiple Domains},
+  author={Yunjey Choi and Youngjung Uh and Jaejun Yoo and Jung-Woo Ha},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2020}
+}
+```
+
 [Dataset from Kaggle](https://www.kaggle.com/datasets/andrewmvd/animal-faces)
 
 ## Study Resources
