@@ -59,6 +59,7 @@ For Inference Mode (One Click Run):
 ```
 
 [Dataset from Kaggle](https://www.kaggle.com/datasets/andrewmvd/animal-faces)
+[CATS ONLY used in this training](https://huggingface.co/datasets/ziyang06315/cats_images_dataset/tree/main)
 
 ## Study Resources
 
